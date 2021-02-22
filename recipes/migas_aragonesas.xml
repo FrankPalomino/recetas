@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe>
+  <title>Migas aragonesas</title>
+  <img>img/migas_aragonesas.jpg</img>
+  <recipeinfo>
+    <blurb>Un primero potente</blurb>
+    <genre>Primer plato</genre>
+    <author>Bar Artigas</author>
+    <yield> 4 Personas </yield>
+    <preptime> 60 minutos </preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+    <ingredient>
+      <quantity>2</quantity> 
+      <unit>bolsas</unit>
+      <fooditem>de migas</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity> 
+      <unit>vaso</unit>
+      <fooditem>de aceita oliva</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity> 
+      <unit></unit>
+      <fooditem>patata mediana</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity> 
+      <unit></unit>
+      <fooditem>cebolla grande</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1/2</quantity> 
+      <unit>cabeza</unit>
+      <fooditem>de ajo</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity> 
+      <unit>vaso</unit>
+      <fooditem>de agua</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity> 
+      <unit></unit>
+      <fooditem>huevos</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity> 
+      <unit>racimo</unit>
+      <fooditem>de uvas</fooditem>
+    </ingredient>
+  </ingredientlist>
+
+  <preparation>
+    Se echa el aceite en una sartén o cazuela. Si queréis añadir alguna carne como longaniza, chorizo, panceta etc, este es el momento. Se fríen bien y se reservan en un plato u otro recipiente. Se pela la patata y se corta a trozos pequeños e irregulares. Se fríe a fuego medio-alto y, tras un par de minutos se añaden los dientes de ajo pelados y enteros. Una vez se han dorado la patata y los ajos, se añade la cebolla cortada fina. Una vez añadida la cebolla, se baja el fuego para que se cocine lentamente y quede transparente. Una vez hecho el sofrito, es el momento de añadir las migas previamente mojadas, el agua y la sal. Se mezcla todo, sin parar de remover y con el fuego más bien alto. Si hemos freído alguna carne antes de hacer el sofrito, ahora es el momento de añadirla. Una vez que están sueltas y todos los ingredientes bien mezclados, probamos y rectificamos de sal si es necesario. Mientas reposan unos minutos, freímos unos huevos y desgranamos el racimo de uva. Lo presentamos en el plato añadiendo un buen cucharón de migas, el huevo frito encima y un puñado de uvas alrededor.
+  </preparation>
+
+</recipe>

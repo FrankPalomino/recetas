@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe>
+  <title>Ceviche Peruano</title>
+  <img>img/cebichePeruano.png</img>
+  <recipeinfo>
+    <blurb>El placer del mar en tu boca.</blurb>
+
+    <genre>Entrante</genre>
+
+    <author>Frank Palomino</author>
+
+    <yield>4 personas</yield>
+
+    <preptime>Una hora</preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+    <ingredient>
+      <quantity>1</quantity>
+      <unit>Kg.</unit>
+      <fooditem>Limon</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <unit>Kg.</unit>
+      <fooditem>Pescado Perca</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>0.5</quantity>
+      <unit>Kg.</unit>
+      <fooditem>Cebolla</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>50</quantity>
+      <unit>gr.</unit>
+      <fooditem>Apio</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>20</quantity>
+      <unit>gr.</unit>
+      <fooditem>Gengibre</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>10</quantity>
+      <unit>gr.</unit>
+      <fooditem>Pimienta</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>20</quantity>
+      <unit>gr.</unit>
+      <fooditem>Sal</fooditem>
+    </ingredient>
+  </ingredientlist>
+
+  <preparation>Corte el pescado en cubos pequeños y colóquelos en un recipiente de vidrio. Cubra los pedazos de pescados con agua bien fría y 1 cucharada de sal, tape y refrigere mientras se prepara la cebolla y el jugo de los limones. Frote las rodajas de cebolla con 1/2 cucharada de sal y enjuague con agua fría. Enjuague el pescado para eliminar la sal. Ponga los cubos de pescado, la mitada de las rodajas de cebolla, las ramas de cilantro, y los ajíes en un recipiente de vidrio y vierta el jugo de limón sobre los ingredientes. Espolvoree con un poco de sal. Para minimizar la acidez del limón se puede agregar unos cubitos de hielo a la mezcla. Cubra y refrigere durante unos 5-15 minutos o hasta que el pescado empiece a blanquearse. En caso de usar limón sutil el pescado se curtirá más rápido. Retire las ramitas de cilantro y los ajíes de la mezcla del cebiche. Pruebe el cebiche de pescado y rectifique la sal si es necesario. Para servir ponga el cebiche en cada recipiente, ya sea un plato o bol, agregue un poco de las rodajas de cebolla, el cilantro picado, y aji picadito al gusto. Sirva inmediatamente con su elección de guarniciones.</preparation>
+
+  <serving>Servir frío acompañado de moniatos hervidos.</serving>
+
+  <notes>Originalmente picante si agregamos un "rocoto"</notes>
+</recipe>

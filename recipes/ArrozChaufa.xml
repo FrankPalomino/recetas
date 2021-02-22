@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE recipe PUBLIC "-//Happy-Monkey//DTD RecipeBook//EN"
+"http://www.happy-monkey.net/recipebook/recipebook.dtd">
+<recipe>
+  <title>Arroz Chaufa</title>
+  <img>img/ArrozChaufa.png</img>
+  <recipeinfo>
+    <blurb>Plato oriental Peruano.</blurb>
+
+    <genre>Oriental</genre>
+
+    <author>Frank Palomino</author>
+
+    <yield>4 personas</yield>
+
+    <preptime>Una hora</preptime>
+  </recipeinfo>
+
+  <ingredientlist>
+  <ingredient>
+      <quantity>1</quantity>
+      <unit>Kg.</unit>
+      <fooditem>Arroz</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>1</quantity>
+      <unit>Kg.</unit>
+      <fooditem>Lomo de cerdo</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <unit>unid.</unit>
+      <fooditem>Huevos</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>4</quantity>
+      <unit>unid.</unit>
+      <fooditem>Salchichas</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>50</quantity>
+      <unit>ml.</unit>
+      <fooditem>Salsa de soja</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>20</quantity>
+      <unit>gr.</unit>
+      <fooditem>Gengibre</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>10</quantity>
+      <unit>gr.</unit>
+      <fooditem>Pimienta</fooditem>
+    </ingredient>
+    <ingredient>
+      <quantity>20</quantity>
+      <unit>gr.</unit>
+      <fooditem>Sal</fooditem>
+    </ingredient>
+  </ingredientlist>
+
+  <preparation>Comenzamos cociendo el arroz hasta que nos quede al dente, más bien durito. Este punto es importante ya que al final del proceso el arroz tendrá un momento de fritura. Ponemos la cazuela al fuego. Añadimos el agua y el arroz, todo junto. Cuando comience a hervir dejamos el arroz unos 4 minutos hasta que se evapore el agua. Cuando veamos que no hay burbujas de agua sobre la superficie del arroz, bajamos el fuego al 3 de temperatura, ni al mínimo ni al medio de temperatura, y tapamos la cazuela. Dejamos así durante 14 minutos. Dejamos reposar. Si tienes dudas, no deje de ver el vídeo que os muestro a continuación. Mi recomendación es cocer el arroz sin sal. Luego le vamos a añadir salsa de soja que le aporta sal a la receta, de modo que al unirse al arroz puede dar pie a que el chaufa resulte salado. Hay que ser precavidos con eso. No os paséis con la cocción del arroz, si está muy cocido, quedará demasiado blando y no nos va a servir para la receta. Reservamos el arroz.</preparation>
+
+  <serving>Servir caliente.</serving>
+
+  <notes>Se puede acompañar de mostaza</notes>
+</recipe>
