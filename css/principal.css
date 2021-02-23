@@ -1,0 +1,76 @@
+
+body {
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-mantel-arrugado_1205-248.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    padding: 10px;
+    min-height: 650px;
+}
+
+#principal {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1em;
+}
+
+#main-titulo, #opciones {
+    grid-column: 1/4;
+    display: flex;
+    justify-content: center;
+}
+
+#main-titulo {
+    height:60px;
+    background-color: black;
+    color: white;
+    align-items: center;
+}
+
+#main-titulo h1{
+    padding: 0;
+    margin: 0;
+}
+
+#selecion {
+    width: 200px
+}
+
+#receta,#ingredients,#info,#preparacio,#notes, #presentacio {
+    padding: 0.5em;
+    background-color:rgba(255, 255, 255, 0.925);
+    border: solid rgb(248, 115, 115) 1px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgb(248, 115, 115);
+}
+
+#preparacio {
+    grid-column: 1/3;
+    grid-row: 4/6;
+}
+
+.titulo {
+    border-bottom: solid rgb(248, 115, 115) 1px;
+    font-weight: bolder;
+}
+
+#receta {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#nom-receta {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+@media screen and (max-width: 768px){
+    #receta,#ingredients,#info,#preparacio,#notes, #presentacio {
+        grid-column: 1/-1;
+    }
+
+    #preparacio {
+        grid-row: inherit;
+    }
+}
